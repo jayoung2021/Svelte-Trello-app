@@ -57,7 +57,7 @@
     <div
       class="add-another-list"
       on:click={onEditMode}>
-      + Add another list
+      + Add another hello world!
     </div>
   {/if}
 </div>
